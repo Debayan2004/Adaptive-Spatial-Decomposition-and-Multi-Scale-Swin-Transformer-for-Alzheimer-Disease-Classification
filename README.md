@@ -44,7 +44,7 @@ This implementation is designed for structural MRI data from ADNI. The dataset i
 
 ## Pretrained Weights
 
-Pretrained weights and experimental checkpoints are not included.
+Pretrained weights and experimental checkpoints will be available soon.
 
 ## License
 
